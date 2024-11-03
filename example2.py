@@ -2,7 +2,7 @@
 # https://developer.ticketmaster.com/products-and-docs/apis/getting-started/
 import requests
 
-API_KEY = 'O25rm2nh73Airm6ZVRGIWW4HEsLGSKAP'
+API_KEY = 'TODO'
 
 # Event Search
 # https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/#search-events-v2
